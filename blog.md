@@ -57,9 +57,6 @@ User → Streamlit App → Weather API
 → Netflix Dataset (CSV)
 → Plotly Graphs → Dashboard UI
 
-yaml
-Copy code
-
 ---
 
 ## 🧪 How Kiro Helped
