@@ -21,8 +21,8 @@ streamlit run app.py
 
 
 ## Includes
-- `.kiro` directory (required for Week 3 submission)
+- `.kiro` directory
 - Streamlit dashboard code
 
 ## Blog Link
-(Add your AWS Builder Center blog link here)
+https://github.com/Bhavana0212/weather-netflix-dashboard/blob/main/blog.md
